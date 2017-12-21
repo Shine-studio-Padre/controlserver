@@ -1,0 +1,26 @@
+body {
+    width: 60%;
+    position: center;
+}
+
+.centerLayer {
+    margin-top: 20%;
+    margin-left: 70%;
+}
+
+.centerLayer h2 {
+    margin-left: 30%;
+}
+
+.sub {
+    width: 100%;
+}
+
+.centerLayerT {
+    margin-left: 70%;
+    padding: 10px;
+}
+
+.centerLayerTT a {
+    margin-left: 70%;
+}
